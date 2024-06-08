@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+C:\Users\Alan Maldonado\Desktop\Tienda\.metadata\.plugins\org.eclipse.jdt.core
+1671841425.index
+263265558.index
+4172375189.index
+402063813.index
+1021328443.index
+1865797976.index
+3827753523.index
+3313328676.index
