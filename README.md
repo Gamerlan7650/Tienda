@@ -7,3 +7,4 @@ de una Tienda, donde se pueden agregar usuarios (empleados o
 administradores) y gestionar inventario de la tienda.
 Como extra la simulación de una compra y la reducción de stock del 
 producto comprado.
+[Archivo base de datos]: (java2_BD.pdf)
